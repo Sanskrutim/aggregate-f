@@ -89,11 +89,11 @@ const Footer = () => {
               <h6 className='text-uppercase fw-bold mb-4'>Contact</h6>
               <p>
                 <MDBIcon icon="home" className="me-2" />
-                Betul,Madhya Pradesh
+                Lucknow,Uttar Pradesh
               </p>
               <p>
                 <MDBIcon icon="envelope" className="me-3" />
-                sanskrutimansoriya.com
+                aka.amanverma@gmail.com
               </p>
               <p>
                 <MDBIcon icon="phone" className="me-3" /> + 91 958 995 1665
